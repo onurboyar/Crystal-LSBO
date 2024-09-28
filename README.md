@@ -1,6 +1,6 @@
 # Crystal-LSBO
 
-Welcome to Crystal-LSBO!
+Welcome to Crystal-LSBO <https://arxiv.org/abs/2405.17881>
 
 Contents:
 - crystal_lsbo_repo -> includes trained models, and necessary files for running experiments
