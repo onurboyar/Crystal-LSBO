@@ -7,8 +7,8 @@ Contents:
 - data -> part of the required data, the rest will be downloaded and prepared while running the code
 - legacy_version -> includes single .py files for random and lca-lsbo generation codes. move files to the main directory to use 
 these versions
--- crystal-lca-lsbo.py -> The code for Crystal-LCA-LSBO experiments provided in the paper
--- random_gen_check_validity.py -> The code for random generations with standard normal distribution and checking validities
+    - crystal-lca-lsbo.py -> The code for Crystal-LCA-LSBO experiments provided in the paper
+    - random_gen_check_validity.py -> The code for random generations with standard normal distribution and checking validities
 - data_utils.py -> functions for data preparation
 - dataset.py -> custom torch dataset
 - random_experiment.py -> code for random generation
