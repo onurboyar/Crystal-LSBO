@@ -1,6 +1,6 @@
 # Crystal-LSBO
 
-Check out our paper here: [Crystal-LSBO Paper](https://direct.mit.edu/neco/article/37/8/1505/131386/Crystal-LSBO-Automated-Design-of-De-Novo-Crystals)
+[Check out our paper here](https://direct.mit.edu/neco/article/37/8/1505/131386/Crystal-LSBO-Automated-Design-of-De-Novo-Crystals)
 
 Welcome to Crystal-LSBO!
 
